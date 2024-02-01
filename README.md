@@ -1,3 +1,3 @@
 # streaminApp
 lookAlike netflix streamingApp
-small project for practic react and tailwind
+small project for practice react and tailwind
